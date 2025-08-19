@@ -1,6 +1,0 @@
-app = "modder-backend"  # Fly.io app neve
-
-[http_service]
-  internal_port = 8080  # Flask portja
-  force_https = true
-  auto_stop_machines = false  # 24/7 futáshoz
