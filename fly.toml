@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for dcbot-xokcla on 2025-08-19T01:36:48Z
+# fly.toml app configuration file generated for dcbot-lu4tgw on 2025-08-19T01:46:03Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'dcbot-xokcla'
+app = 'dcbot-lu4tgw'
 primary_region = 'otp'
 
 [build]
